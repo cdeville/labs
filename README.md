@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Unix grey beard with over 30 years in IT and and since 2018 I've been focused on cloud; primarily designing and building solutions in AWS.  When I'm not drinking coffee and writing code, I'm probably either playing video games, reading a fantasy novel, or binging something completely useless.  Hi!
+I'm a Unix grey beard with over 30 years in IT and since 2018 I've been focused on cloud; primarily designing and building solutions in AWS.  When I'm not drinking coffee and writing code, I'm probably either playing video games, reading a fantasy novel, or binging something completely useless.  Hi!
 
 
 ## Currently
@@ -10,7 +10,7 @@ I'm a Unix grey beard with over 30 years in IT and and since 2018 I've been focu
 - **Cloud Architecture**: Designing scalable, resilient AWS infrastructure
 - **Containers**: Working with containerized applications and orchestration
 - **Python Development**: Building automation tools and cloud solutions
-- **CI/CD**: Building automated deployment workflows using tools like GitHub, Jenkins, and AWS
+- **CI/CD**: Building automated deployment workflows using tools like GitHub, CDK, Jenkins, and AWS
 
 ### Some of my past lives
 
