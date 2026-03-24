@@ -76,9 +76,12 @@ def geocode_address(address, client_id, crypto_key):
 
 # Usage
 if __name__ == "__main__": 
-    # Google Map API credentials 
+    # Google Map API credentials
+    # GOOGLE_CLIENTID & GOOGLE_KEY should be set as environment variables
+    # These contain secretmanager names that store the values
     client_id = get_secret(os.environ.get("GOOGLE_CLIENTID"))
     crypto_key = get_secret(os.environ.get("GOOGLE_KEY"))
+    
     
     # Address to geocode
     address = '1600 Amphitheatre Parkway, Mountain View, CA'
