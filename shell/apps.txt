@@ -4,6 +4,7 @@ firefox
     - Multi-Account Containers
     - Nordpass
     - Bonjourr
+Microsoft Edge (for Outlook & Teams)
 docker
 vscode
   plugins:
